@@ -36,7 +36,7 @@ class HomePage extends ConsumerWidget {
     final l10n = ref.watch(appLocalizationProvider);
     return Scaffold(
       body: Center(
-        child: Text(l10n.hello),
+        child: Text(l10n.hello), // en: Hello / ja: こんにちは
       ),
     );
   }

@@ -5,5 +5,5 @@ class AppLocalizationEn extends AppLocalization {
   AppLocalizationEn([String locale = 'en']) : super(locale);
 
   @override
-  String get hello => 'HELLO';
+  String get hello => 'Hello';
 }

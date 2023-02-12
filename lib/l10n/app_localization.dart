@@ -96,7 +96,7 @@ abstract class AppLocalization {
   /// No description provided for @hello.
   ///
   /// In en, this message translates to:
-  /// **'HELLO'**
+  /// **'Hello'**
   String get hello;
 }
 
