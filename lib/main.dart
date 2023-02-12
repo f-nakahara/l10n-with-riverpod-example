@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:l10n_with_riverpod_example/l10n/app_localization_provider.dart';
 
 import 'l10n/app_localization.dart';
+import 'l10n/app_localization_provider.dart';
 
 void main() {
   runApp(
